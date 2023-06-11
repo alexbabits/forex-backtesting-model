@@ -9,5 +9,5 @@ Uses kNN machine learning model to determine directional accuracy (treated as bi
 
 Integrates model with backtesting.py library.
 
-Inspiration from https://kernc.github.io/backtesting.py/doc/examples/Trading%20with%20Machine%20Learning.html
+Inspiration from: https://kernc.github.io/backtesting.py/doc/examples/Trading%20with%20Machine%20Learning.html
 
